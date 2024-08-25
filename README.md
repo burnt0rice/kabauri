@@ -17,3 +17,9 @@ Make sure you have the following installed on your machine:
 - [npm](https://www.npmjs.com/)
 - [Rust](https://www.rust-lang.org/)
 - [Tauri CLI](https://tauri.app)
+
+
+## Stroll through ricefield
+
+If you like this project, you can explore more of my projects on my [GitHub profile](https://github.com/burnt0rice) or on my [website](https://ricefield.ch).
+
